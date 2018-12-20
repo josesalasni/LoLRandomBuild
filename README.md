@@ -3,7 +3,7 @@ An Android app that generates a random build for a champion of League of Legends
 
 ## Description
 
-I created this project to practice Kotlin as I before used java for android development, in this app I fetch data from the datadragon files of League of Legends, show a list of all champions with recyclerview and searchview, and finally show a random build for the selected champion
+I created this project to practice Kotlin as I before used java for android development, in this app I fetch data from the datadragon files of League of Legends using Retrofit, show a list of all champions with recyclerview and searchview, and finally show a random build for the selected champion
 
 ## Previsualization
 
