@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="image_item">Image Item</string>
+    <string name="description_title">Press an item to know more</string>
+</resources>
